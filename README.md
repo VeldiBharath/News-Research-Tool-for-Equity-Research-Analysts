@@ -31,5 +31,7 @@ A LLM Application made of Word Embeddings, Vector Database, Semantic search, Lan
 
 #### Drawback : More LLM Calls
 
+Credits : Codebasics
+
 
  
