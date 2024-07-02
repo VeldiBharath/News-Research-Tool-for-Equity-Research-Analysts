@@ -27,4 +27,9 @@ A LLM Application made of Word Embeddings, Vector Database, Semantic search, Lan
 - Construct an embedding vector using OpenAI's embeddings and leverage FAISS, a powerful similarity search library, to enable swift and effective retrieval of relevant information
 - Interact with the LLM's (Chatgpt) by inputting queries and receiving answers along with source URLs.
 
+![image](https://github.com/VeldiBharath/News-Research-Tool-for-Equity-Research-Analysts/assets/143754299/c5c26cfd-a5e9-4a68-8bf6-5e190647e4e5)
+
+#### Drawback : More LLM Calls
+
+
  
