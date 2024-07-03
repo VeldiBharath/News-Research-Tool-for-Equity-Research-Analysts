@@ -1,5 +1,7 @@
 # News-Research-Tool-for-Equity-Research-Analysts
 A LLM Application made of Word Embeddings, Vector Database, Semantic search, LangChain, OpenAI and Streamlit
+![rockybot](https://github.com/VeldiBharath/News-Research-Tool-for-Equity-Research-Analysts/assets/143754299/0d4a023c-9b91-4124-a872-e4858670ce76)
+
 
 1. Word Embedding will allow us to find the relevant chunk of Information.
 2. Vector Database allow us to find faster search on that database.
