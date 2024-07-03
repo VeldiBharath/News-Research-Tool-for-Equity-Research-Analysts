@@ -5,6 +5,9 @@ A LLM Application made of Word Embeddings, Vector Database, Semantic search, Lan
 2. Vector Database allow us to find faster search on that database.
 3. Then we give our prompt to OpenAI for answer.
 
+![image](https://github.com/VeldiBharath/News-Research-Tool-for-Equity-Research-Analysts/assets/143754299/5a0051a1-5a03-4355-a543-7d4a7c4b959c)
+
+
 ## Technical Architecture
 ![image](https://github.com/VeldiBharath/News-Research-Tool-for-Equity-Research-Analysts/assets/143754299/b554837b-a3eb-416b-a9fa-42b17031b004)
 
